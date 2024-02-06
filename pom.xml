@@ -13,6 +13,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot-kafka-real-world-project</name>
 	<description>Realtime Wikimedia Project</description>
+	<modules>
+		<module>kafka-producer-wikimedia</module>
+	</modules>
 	<packaging>pom</packaging>
 	<properties>
 		<java.version>17</java.version>
